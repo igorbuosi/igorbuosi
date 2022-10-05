@@ -1,6 +1,7 @@
 ## Bem vindo! Eu sou Igor Bianco Buosi.
 
-- 🔭 Formado em Engenharia Civil e Cursando Sistemas de Informação
+- &#127959; Formado em Engenharia Civil e 
+- 🔭 Cursando Sistemas de Informação
 - 🌱 Trabalho na área de suporte em uma software House
 
 <div align="center">
