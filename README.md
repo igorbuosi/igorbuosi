@@ -1,8 +1,18 @@
 ## Bem vindo! Eu sou Igor Bianco Buosi.
 
-- &#127959; Formado em Engenharia Civil e 
-- 🔭 Cursando Sistemas de Informação
-- 🌱 Trabalho na área de suporte em uma software House
+- &#127959; Formado em Engenharia Civil 
+- &#128187; Cursando Sistemas de Informação
+- &#128383; Trabalho na área de suporte em uma software House
+
+- &#128214; Estudando desenvolvimento web:
+   - Back-end: JAVA e PHP
+   - Front-end: HTML, CSS, JavaScript, Bootstrap e jQuery.
+
+- &#128187; Desenvolvimento desktop:  
+  - Javadesktop, Delphi
+
+- &#128187; Banco de Dados:
+  - Firebird, Mysql e Postgresql
 
 <div align="center">
   <a href="https://github.com/igorbuosi/">
