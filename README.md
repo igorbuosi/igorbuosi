@@ -2,7 +2,7 @@
 
 - &#127959; Formado em Engenharia Civil 
 - &#128187; Cursando Sistemas de Informação
-- &#128383; Trabalho na área de suporte em uma software House
+- &#128383; Trabalho na área de suporte / analista de sistemas em uma software House
 
 - &#128214; Estudando desenvolvimento web:
    - Back-end: JAVA e PHP
@@ -13,6 +13,8 @@
 
 - &#128187; Banco de Dados:
   - Firebird, Mysql e Postgresql
+
+- &#128187; Estudante na Área de Análise de Dados / BI.
 
 <div align="center">
   <a href="https://github.com/igorbuosi/">
